@@ -1,7 +1,7 @@
 # To do request to API 
 ![Imgur](https://i.imgur.com/BxH4arm.png)
 
-This exercise helps me to practice using react to do request to an api, making components, using hooks like useState, useContext, custom hooks and react-router. The other hand, I want to make a better files organization stating with the division fo components, functions, services, pages and hooks.
+This exercise helps me to practice using react to do request to an api, making components, using hooks like useState and wouter. The other hand, I want to make a better files organization stating with the division for components, functions, services, pages and hooks.
 
 ## tools that used :toolbox:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
