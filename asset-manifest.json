@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/request-to-Rick-MortyAPI/static/css/main.073c9b0a.css",
+    "main.js": "/request-to-Rick-MortyAPI/static/js/main.921700f1.js",
+    "static/js/787.85bd4214.chunk.js": "/request-to-Rick-MortyAPI/static/js/787.85bd4214.chunk.js",
+    "static/media/logo.svg": "/request-to-Rick-MortyAPI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/request-to-Rick-MortyAPI/index.html",
+    "main.073c9b0a.css.map": "/request-to-Rick-MortyAPI/static/css/main.073c9b0a.css.map",
+    "main.921700f1.js.map": "/request-to-Rick-MortyAPI/static/js/main.921700f1.js.map",
+    "787.85bd4214.chunk.js.map": "/request-to-Rick-MortyAPI/static/js/787.85bd4214.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.921700f1.js"
+  ]
+}
